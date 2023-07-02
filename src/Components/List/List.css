@@ -1,0 +1,19 @@
+.List {
+
+}
+
+.List li {
+  display: inline-block;
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+  padding: 0.5em;
+  border: 1pz solid grey;
+  background-color: lightpink;
+  color: black;
+  border-radius: 0.5em;
+  cursor: pointer;
+}
+
+.List li:hover {
+  background-color: lightgreen;
+}
