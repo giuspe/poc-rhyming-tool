@@ -43,6 +43,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>ReactiveRhymes</h1>
         <div>number of words: {numberOfWords}</div>
         <TextFilter 
           onChange={updateFilter}

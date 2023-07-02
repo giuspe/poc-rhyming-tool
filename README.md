@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# ReactiveRhymes - a React.js rhyming tool!
+
+Simple app build as exercise while learning the ropes of React.js.
+
+
+## Dependencies
+
+The project uses:
+
+  - [words/syllable](https://github.com/words/syllable)
+  - [apostrophecms/random-words](https://github.com/apostrophecms/random-words)
+## Info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
